@@ -19,8 +19,8 @@ An AI-powered resume analysis tool built with Next.js and Google's Gemini Pro AI
 
 1. **Clone and Install Dependencies**
    ```bash
-   git clone <repository-url>
-   cd ai-resume-analyzer
+   git clone https://github.com/Abhishumat23/Resume-Analyzer.git
+   cd Resume-Analyzer
    npm install
    ```
 
@@ -93,7 +93,3 @@ The application includes:
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details 
