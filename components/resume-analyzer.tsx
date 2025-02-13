@@ -142,7 +142,7 @@ export default function ResumeAnalyzer() {
               // Check if line is a section header (starts with a number)
               if (/^\d\./.test(line)) {
                 return (
-                  <h3 key={index} className="text-xl font-semibold mt-6 mb-3 text-blue-600 dark:text-blue-400">
+                  <h3 key={index} className="text-2xl font-bold mt-6 mb-3 bg-gradient-to-r from-purple-600 to-blue-600 bg-clip-text text-transparent">
                     {line}
                   </h3>
                 );
